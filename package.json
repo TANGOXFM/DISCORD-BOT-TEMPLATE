@@ -1,7 +1,7 @@
 {
-  "name": "spacebot",
+  "name": "spacebot",//change this if ud like changing multiple things can cause errors
   "version": "1.0.0",
-  "description": "collabed with tango",
+  "description": "made by tango",//change this if ud like 
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
