@@ -6,7 +6,7 @@ const client = new Discord.Client({
 });
 
 
-const token = ("MTI2NTMzMTMwMjY0MzUzNTkxNA.G-kCeF.0ay5LaQIS7Z4UnIiL_DWLf15XN7vD1X3HZ6kw4") 
+const token = ("MTI2NTMzMTMwMjY0MzUzNTkxNA.GxUu35.8DOLweaSkZjwlhn1qFbpflAV5UX8VtkyHaaXX0") 
  
 client.on('ready', async () => {
     console.log(`${client.user.username} is now running`)
