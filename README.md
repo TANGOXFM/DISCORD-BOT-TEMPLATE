@@ -24,7 +24,8 @@
    
 6. **now the template is ready (start coding in "index.js"**
 
-   # if the steps are to confusing watch a tutorial video [here](video_link)
+   # if the steps are to confusing watch a tutorial video [here]([video_link](https://www.youtube.com/watch?v=CNOkDMi2lPc))
+   
 ## dont forget the regular bot screating steps check [here](https://discord.com/developers/applications)
 
 
