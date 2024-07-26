@@ -1,6 +1,10 @@
 # discord-bot-template-v1.0.0 :O
 ***(private to kozi's custom bot server) a template for discord bots***
 
+# !!!!read this:
+**you can type on the terminal: npm install discord.js discordjs@13 discordjs@14 @discordjs/rest discord-api-types**
+
+
 # requirements:
 
 1. ***visual studio code*** **[download here](https://code.visualstudio.com)**
@@ -23,3 +27,5 @@
 
    # if the steps are to confusing watch a tutorial video [here](video_link)
 ## dont forget the regular bot screating steps check [here](https://discord.com/developers/applications)
+
+
