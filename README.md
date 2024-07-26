@@ -1,2 +1,2 @@
-# DISCORD-BOT-TEMPLATE
-a template for discord bots 
+# GOLDEN-TANGO--BOT-
+ a usable template

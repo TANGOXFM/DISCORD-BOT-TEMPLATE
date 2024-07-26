@@ -1,0 +1,21 @@
+{
+  "name": "spacebot",
+  "version": "1.0.0",
+  "description": "collabed with tango",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tangoxfm x kozi",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.3.0",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^13.17.1",
+    "pm2": "^5.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.7.0"
+  }
+}
