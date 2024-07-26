@@ -13,7 +13,7 @@
    
 2. ***then create a new folder*** **named what ever you want your bot to be named**
    
-**3.** ***and extract the files into the folder made in step 3*** (and ***extract "node modules"*** and after extracing ***delete "node_modules.zip and keep the "node_modules" folder***")
+**3.** ***and extract the files into the folder that was made in step 2*** (and ***extract "node modules"*** and after extracing ***delete "node_modules.zip and keep the "node_modules" folder***")
  
 4. ***then open visual studio code and click** ***"open folder"***
    
