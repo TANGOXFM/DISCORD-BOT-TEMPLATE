@@ -1,8 +1,7 @@
 # discord-bot-template-v1.0.0 :O
 ***(private to kozi's custom bot server) a template for discord bots***
 
-# !!!!read this:
-**you can type on the terminal: npm install discord.js discordjs@13 discordjs@14 @discordjs/rest discord-api-types**
+
 
 
 # requirements:
